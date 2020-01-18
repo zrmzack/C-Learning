@@ -139,10 +139,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="arraychange.cpp" />
+    <ClCompile Include="array指针.cpp" />
     <ClCompile Include="BubleSort.cpp" />
+    <ClCompile Include="BubleSortFuntion.cpp" />
+    <ClCompile Include="const关键字.cpp" />
     <ClCompile Include="function.cpp" />
     <ClCompile Include="swap.cpp" />
     <ClCompile Include="swapMain.cpp" />
+    <ClCompile Include="指针.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="swap.h" />
