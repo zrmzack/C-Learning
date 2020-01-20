@@ -21,5 +21,11 @@
     <ClCompile Include="TeacherAndStudent.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="swapAll.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

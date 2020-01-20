@@ -139,7 +139,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Student.cpp" />
+    <ClCompile Include="swapAll.cpp" />
     <ClCompile Include="TeacherAndStudent.cpp" />
+    <ClCompile Include="指针.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
