@@ -138,9 +138,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="friend.cpp" />
     <ClCompile Include="FunctionTest.cpp" />
     <ClCompile Include="initFunction.cpp" />
     <ClCompile Include="ThisTest.cpp" />
+    <ClCompile Include="zuoyiyunsuanfu.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
